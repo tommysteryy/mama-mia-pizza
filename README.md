@@ -16,6 +16,9 @@ Datasets can be found in the ["data" folder](/data).
 The full problem description can be found in the 
 ["instructions" folder](/instructions).
 
+Some of my work in Microsoft Excel can be seen in the 
+[Exploratory Analysis Notebook](https://github.com/tommysteryy/mama-mia-pizza/blob/main/Exploratory%20Analysis%20Notebook.xlsx)
+
 **Our final project submission is the** 
 [Mamma Mia Pizzeria Final Presentation](https://github.com/tommysteryy/mama-mia-pizza/blob/main/Mamma%20Mia%20Pizzeria%20Final%20Presentation.pdf)
 
