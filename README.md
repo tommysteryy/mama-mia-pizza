@@ -16,7 +16,8 @@ Datasets can be found in the ["data" folder](/data).
 The full problem description can be found in the 
 ["instructions" folder](/instructions).
 
-**Our final project submission is the [Mamma Mia Pizzeria Final Presentation](Mamma Mia Pizzeria Final Presentation.pdf)**
+**Our final project submission is the** 
+[Mamma Mia Pizzeria Final Presentation](Mamma Mia Pizzeria Final Presentation.pdf)
 
 ![image](display-presentation%20gif.gif)
 
