@@ -17,7 +17,7 @@ The full problem description can be found in the
 ["instructions" folder](/instructions).
 
 **Our final project submission is the** 
-[Mamma Mia Pizzeria Final Presentation](Mamma Mia Pizzeria Final Presentation.pdf)
+[Mamma Mia Pizzeria Final Presentation](https://github.com/tommysteryy/mama-mia-pizza/blob/main/Mamma%20Mia%20Pizzeria%20Final%20Presentation.pdf)
 
 ![image](display-presentation%20gif.gif)
 
