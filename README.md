@@ -4,7 +4,7 @@
 ### Scenario
 >The Pizzeria Mamma Mia is selling take-away pizza. The business is generally going well, 
 however, their customer ratings have been very low, and they are making negative profits 
-for some of their deliveries.
+for some of their deliveries. 
 
 Participants received three datasets from the business's internal 
 systems and were asked to using [Process Mining](https://www.celonis.com/process-mining/what-is-process-mining/) 
